@@ -47,4 +47,5 @@
   * fitting curves: f1para = sp.polyfit(x,y,polynomial)
   * get the functions from para: f1 = sp.poly1d(f1para)
   * numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None) --> get an evenly scattered points from start to stop
-  
+
+
